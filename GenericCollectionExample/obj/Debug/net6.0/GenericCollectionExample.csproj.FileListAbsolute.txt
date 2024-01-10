@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.exe
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.deps.json
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.runtimeconfig.json
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.dll
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.pdb
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.dll
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\refint\GenericCollectionExample.dll
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.pdb
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.genruntimeconfig.cache
+C:\Users\Admin\source\repos\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\ref\GenericCollectionExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\bin\Debug\net6.0\GenericCollectionExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\refint\GenericCollectionExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\GenericCollectionExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\GenericCollectionExample\GenericCollectionExample\obj\Debug\net6.0\ref\GenericCollectionExample.dll
